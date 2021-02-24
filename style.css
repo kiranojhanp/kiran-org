@@ -3,6 +3,10 @@
     padding: 0;
   }
   
+  .nerds-iframe {
+    height: 98vh !important;
+    width: 100% !important;
+  }
 
   #show-comments-button {
     background-color: #000;
